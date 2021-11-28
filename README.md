@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align='center'>Hello, guys! :wave: I'm Paulo Ricardo! 🧑‍💻</h1>
 
-<!--
-**pauloricardoma/pauloricardoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+<h3 align='center'>Full Stack Developer Jr! 💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align='center'>Studying, studying, studying... 📚</h4>
+
+<h4 align='center'>Let's create new projects! 📈</h4>
+
+ 
+
+<p align='center'>
+<a  href='https://github.com/pauloricardoma'><img src='https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT'></a>
+<a  href='https://www.linkedin.com/in/paulo-ricardo-marques-de-almeida-3b681a13b/'><img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN'></a>
+</p>
+
+----------------------------------------------------------------------------------
+<p align='center'>
+<a href="https://github.com/pauloricardoma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloricardoma&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/pauloricardoma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&layout=compact&exclude_repo=clone-NotFlix" />
+</a>
+</p>
+----------------------------------------------------------------------------------
+<p align='center'>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+</p>
