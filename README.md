@@ -18,10 +18,10 @@
 ----------------------------------------------------------------------------------
 <p align='center'>
 <a href="https://github.com/pauloricardoma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloricardoma&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloricardoma&count_private=true&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/pauloricardoma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&layout=compact&exclude_repo=clone-NotFlix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&count_private=true&layout=compact&exclude_repo=clone-NotFlix" />
 </a>
 </p>
 ----------------------------------------------------------------------------------
