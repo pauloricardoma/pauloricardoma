@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloricardoma&count_private=true&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/pauloricardoma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&layout=compact&count_private=true&exclude_repo=clone-NotFlix,mycontacts-fe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&layout=compact&count_private=true&exclude_repo=clone-NotFlix,mycontacts-fe,Udemy-CursoJS" />
 </a>
 </p>
 ----------------------------------------------------------------------------------
