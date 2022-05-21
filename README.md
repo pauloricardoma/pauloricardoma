@@ -24,6 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardoma&layout=compact&count_private=true&exclude_repo=clone-NotFlix,mycontacts-fe,projeto-escola-cursojs,Udemy-CursoJS" />
 </a>
 </p>
+
 ----------------------------------------------------------------------------------
 <p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
