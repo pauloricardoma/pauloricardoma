@@ -2,11 +2,9 @@
 
  
 
-<h3 align='center'>Full Stack Developer Jr! 💻</h3>
+<h3 align='center'>Pleno Software Engineer! 💻</h3>
 
 <h4 align='center'>Studying, studying, studying... 📚</h4>
-
-<h4 align='center'>Let's create new projects! 📈</h4>
 
  
 
