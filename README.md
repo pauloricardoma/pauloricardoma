@@ -4,12 +4,9 @@
 
 <h3 align='center'>Pleno Software Engineer! 💻</h3>
 
-<h4 align='center'>Studying, studying, studying... 📚</h4>
-
  
 
 <p align='center'>
-<a  href='https://github.com/pauloricardoma'><img src='https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT'></a>
 <a  href='https://www.linkedin.com/in/paulo-ricardo-marques-de-almeida-3b681a13b/'><img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN'></a>
 </p>
 
